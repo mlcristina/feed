@@ -1,0 +1,9 @@
+name: feed
+organisation: rai
+releases:
+- changes:
+  - action: first release
+    details:
+    - what a feat!
+  version: 0.0.1
+  date: 

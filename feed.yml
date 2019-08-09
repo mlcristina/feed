@@ -1,0 +1,14 @@
+name: "feed"
+organisation: "rai"
+author: "mccl"
+contact: "c@c"
+company: "cc"
+version: "0.0.1"
+current_version: "0.0.1"
+release: "0.0.0"
+copyright_year: 2019
+command_line_interface: "feedj"
+entry_point: "feed.main:main"
+license: mcc
+dependencies: []
+description: "feeding j"
