@@ -40,7 +40,7 @@ ENTRY_POINTS = {
 DESCRIPTION = (
     "feeding j"
 )
-URL = "https://github.com/rai/feed"
+URL = "https://github.com/mlcristina/feed"
 DOWNLOAD_URL = "%s/archive/0.0.0.tar.gz" % URL
 FILES = ["README.rst", "CHANGELOG.rst"]
 KEYWORDS = [
