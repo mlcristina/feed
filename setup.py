@@ -30,7 +30,7 @@ except (ValueError, UnicodeError, locale.Error):
 NAME = "feed"
 AUTHOR = "mccl"
 VERSION = "0.0.1"
-EMAIL = "c@c"
+EMAIL = "cristinacaputo+test@gmail.com"
 LICENSE = "mcc"
 ENTRY_POINTS = {
     "console_scripts": [
